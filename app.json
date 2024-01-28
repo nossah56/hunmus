@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "music hunter",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://telegra.ph/file/b2f471a99721d916ec8e9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -23,37 +23,37 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "توكن",
         "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "description": "رابط مونجو url from https://cloud.mongodb.com.",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as OWNER.",
+        "description": "ايديك.",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
+        "description": "جلسة بايوجرام v2لازم.",
         "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "description": "كود هيروكو",
         "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
-        "description": "Your heroku app name",
+        "description": "اسم التطبيق",
         "value": "",
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "ايدي جروب التخزين وارفع البوت و المساعد ادمن ثم شغل الكول.",
         "value": "",
         "required": true
       }
